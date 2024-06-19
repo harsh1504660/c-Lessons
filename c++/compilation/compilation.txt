@@ -1,0 +1,7 @@
+COMPILATION :
+USED TO RUN ANY CODE IN POWERSHELL
+
+COMMAND TO GENARTE COMPILER FILE:
+ 	g++ (file name).cpp
+	(a.exe file will be created)
+	run a.exe
